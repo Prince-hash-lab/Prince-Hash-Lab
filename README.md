@@ -1,6 +1,6 @@
 ## Hey, I'm [Prince!](https://prince-hash-lab.github.io)
 
-[![Linkedin Badge](https://img.shields.io/badge/-vaishantmakan-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-887490196/)](https://www.linkedin.com/in/prince-887490196/)
+![Linkedin Badge](https://img.shields.io/badge/-Prince-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-887490196/)(https://www.linkedin.com/in/prince-887490196/)
 
 <a href="mailto:dynamicprincesaini@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="110" /></a>
 
@@ -26,7 +26,7 @@
 <br>
 <a href="https://github.com/Prince-Hash-Lab">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?usernamePrince-Hash-Lab&show_icons=true&theme=dark" alt="Prince-Hash-Lab" style="width:40%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-Hash-Lab&show_icons=true&theme=dark" alt="Prince-Hash-Lab" style="width:40%;"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Hash-Lab&layout=compact&theme=dark" alt="Prince-Hash-Lab" style="width:40%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hash-Lab&theme=dark&hide=TeX&layout=compact" alt="Prince-Hash-Lab" style="width:40%;"/>
 </p>
