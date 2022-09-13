@@ -1,6 +1,6 @@
 ## Hey, I'm [Prince!](https://prince-hash-lab.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-Prince-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-887490196/)](https://www.linkedin.com/in/prince-887490196/)
-<a href="mailto:dynamicprincesaini@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="110" /></a>
+<a href="mailto:dynamicprincesaini@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" width="80" /></a>
 ### About Me 🚀
 - 🎓 Senior Computer Science student at Thapar Institute Of Engineering And Technology.
 - 👨‍💻 Passionate about Software Development. Enjoy learning new things.
