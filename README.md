@@ -26,8 +26,9 @@
 <a href="https://github.com/Prince-Hash-Lab">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Prince-Hash-Lab&show_icons=true&theme=dark" alt="Prince-Hash-Lab" style="width:33%;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Hash-Lab&layout=compact&theme=dark" alt="Prince-Hash-Lab" style="width:33%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hash-Lab&theme=dark&hide=TeX&layout=compact" alt="Prince-Hash-Lab" style="width:33%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Hash-Lab&layout=compact&theme=dark" alt="Prince-Hash-Lab" style="width:33%;"/>
+
 </p>
 </a>
 <br>
