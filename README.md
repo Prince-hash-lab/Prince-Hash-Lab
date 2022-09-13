@@ -4,9 +4,9 @@
 <a href="mailto:dynamicprincesaini@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="110" /></a>
 
 ### About Me 🚀
-- 🎓 I'm a junior pursuing my Bachelors in Computer Science & Engineering at Thapar Institute Of Engineering And Technology.
-- 👨‍💻 I am passionate about Software Development. I enjoy learning new things.
-- 🌱 I’m currently exploring the world of technology.
+- 🎓 Senior Computer Science student at Thapar Institute Of Engineering And Technology.
+- 👨‍💻 Passionate about Software Development. Enjoy learning new things.
+- 🌱 Exploring the world of technology.
 - 👯 Always looking to collaborate on amazing projects!
 - 💬 Feel free to reach out!
 
@@ -14,7 +14,7 @@
 
 ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C)
 ![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C)
-![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)\
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=VaishantMakan&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
