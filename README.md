@@ -5,10 +5,9 @@
 
 ### About Me 🚀
 - 🎓 Senior Computer Science student at Thapar Institute Of Engineering And Technology.
-- 👨‍💻 Passionate about Software Development. Enjoy learning new things.
+- 👨‍💻 Passionate about Software Development. Enjoying learning new things.
 - 🌱 Exploring the world of technology.
-- 👯 Always looking to collaborate on amazing projects!
-- 💬 Feel free to reach out!
+
 ## 🖥 Technologies and Languages
 ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C)
 ![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C)
