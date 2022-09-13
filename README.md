@@ -7,15 +7,14 @@
 - 🌱 Exploring the world of technology.
 - 👯 Always looking to collaborate on amazing projects!
 - 💬 Feel free to reach out!
-
 ## 🖥 Technologies and Languages
 ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C)
 ![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=VaishantMakan&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishantMakan&theme=dark&hide=TeX&layout=compact)
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Prince-Hash-Lab&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hash-Lab&theme=dark&hide=TeX&layout=compact)
+
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/Prince-Hash-Lab">
 <p align="center">
