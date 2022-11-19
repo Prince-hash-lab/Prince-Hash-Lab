@@ -2,19 +2,12 @@
 <h3 align="center">A passionate Machine learning Engineering from India</h3>
 
 - 🔭 I’m currently working on [Data and ML projects](https://github.com/Prince-hash-lab/Movie-lens-case-study-)
-
 - 🌱 I’m currently learning **Machine learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Prince-hash-lab](https://github.com/Prince-hash-lab)
-
 - 📫 How to reach me **pprince_be19@thapar.edu**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lDPUNFh5XqwH4kl0-AoToiw8aKA5Gmdh/view?usp=share_link](https://drive.google.com/file/d/1lDPUNFh5XqwH4kl0-AoToiw8aKA5Gmdh/view?usp=share_link)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-hash-lab&label=Profile%20views&color=0e75b6&style=flat" alt="prince-hash-lab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +29,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Hash-Lab&layout=compact&theme=dark" alt="Prince-Hash-Lab" style="width:33%;"/>
 </p>
 </a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-hash-lab&label=Profile%20views&color=0e75b6&style=flat" alt="prince-hash-lab" /> </p>
+
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
+ -->
