@@ -7,10 +7,10 @@
 - 📫 How to reach me **pprince_be19@thapar.edu**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lDPUNFh5XqwH4kl0-AoToiw8aKA5Gmdh/view?usp=share_link](https://drive.google.com/file/d/1lDPUNFh5XqwH4kl0-AoToiw8aKA5Gmdh/view?usp=share_link)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab"  width="40" height="40"/></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/prince-887490196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-887490196" height="30" width="40" /></a>
 <a href="https://instagram.com/prince.official.70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince.official.70" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prince_saini20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prince_saini20" height="30" width="40" /></a>
