@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate Machine learning Engineering from India</h3>
+<h3 align="center">A Passionate Machine learning Engineering from India</h3>
 
 - 🔭 I’m currently working on [Data Science, ML  and Software Projects](https://github.com/Prince-hash-lab)
 - 🌱 I’m currently learning **Machine learning**
