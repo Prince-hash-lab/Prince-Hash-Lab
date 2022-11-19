@@ -31,6 +31,7 @@
 <a href="https://auth.geeksforgeeks.org/user/virginius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="virginius" height="30" width="40" /></a>
 </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-hash-lab&label=Profile%20views&color=0e75b6&style=flat" alt="prince-hash-lab" />  </p>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
 
 <h3 align="center">Connect with me:</h3>
