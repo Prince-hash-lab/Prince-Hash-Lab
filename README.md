@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Machine learning Engineering from India</h3>
 
-- 🔭 I’m currently working on [Data and ML projects](https://github.com/Prince-hash-lab/Movie-lens-case-study-)
+- 🔭 I’m currently working on [Data and ML projects and Software Projects](https://github.com/Prince-hash-lab/Movie-lens-case-study-)
 - 🌱 I’m currently learning **Machine learning**
 - 👨‍💻 All of my projects are available at [https://github.com/Prince-hash-lab](https://github.com/Prince-hash-lab)
 - 📫 How to reach me **pprince_be19@thapar.edu**
@@ -21,7 +21,7 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> </p>
-
+<!-- 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/prince-887490196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-887490196" height="30" width="40" /></a>
@@ -29,9 +29,8 @@
 <a href="https://www.codechef.com/users/prince_saini20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prince_saini20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajrishi_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajrishi_prince" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/virginius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="virginius" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-hash-lab&label=Profile%20views&color=0e75b6&style=flat" alt="prince-hash-lab" /> </p>
-
+</p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-hash-lab&label=Profile%20views&color=0e75b6&style=flat" alt="prince-hash-lab" />  </p>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
 
 <h3 align="center">Connect with me:</h3>
