@@ -44,7 +44,7 @@
 <h3>Trophy's</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> 
-<img align="right" width="300"  alt="Code"  src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/code.gif"/>
+<img align="right" width="100"  alt="Code"  src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/code.gif"/>
 <!-- </p> -->
 <!-- <img align="right" width="150" height="100" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/function.gif"/> -->
 </p>
