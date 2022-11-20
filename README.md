@@ -37,7 +37,8 @@
 
 <h3>Trophy's</h3> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> </p>
+<img align="right" width="100" height="50" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/function.gif"/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
 
