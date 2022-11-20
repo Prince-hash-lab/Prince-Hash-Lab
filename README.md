@@ -13,7 +13,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/Prince-Hash-Lab">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prince-Hash-Lab&show_icons=true&theme=light" alt="Prince-Hash-Lab" style="width:33%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prince-Hash-Lab&show_icons=true&theme=dracula" alt="Prince-Hash-Lab" style="width:33%;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hash-Lab&theme=dracula&hide=TeX&layout=compact" alt="Prince-Hash-Lab" style="width:33%;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Hash-Lab&layout=compact&theme=dracula" alt="Prince-Hash-Lab" style="width:33%;"/>
 </p>
