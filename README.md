@@ -14,8 +14,11 @@
 <a href="https://github.com/Prince-Hash-Lab">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Prince-Hash-Lab&show_icons=true&theme=dracula" alt="Prince-Hash-Lab" style="width:33%;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hash-Lab&theme=dracula&hide=TeX&layout=compact" alt="Prince-Hash-Lab" style="width:33%;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Hash-Lab&theme=draculahide=java,html,tex&langs_count=3&count_private=true&layout=compact" alt="Prince-Hash-Lab" style="width:33%;"/>
+<!--   &layout=compact -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Hash-Lab&layout=compact&theme=dracula" alt="Prince-Hash-Lab" style="width:33%;"/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanvikshiki&hide=java,html,tex&theme=dracula&langs_count=3&count_private=true" /> -->
+</a>
 </p>
 </a>
 
