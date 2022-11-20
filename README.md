@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A Passionate Machine learning Engineering from India</h3>
+<h3 align="center">A Passionate Computer Science Engineer from India</h3>
 
 - 🔭 I’m currently working on [Data Science, ML  and Software Projects](https://github.com/Prince-hash-lab)
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Everything Related to Computers**
 - 👨‍💻 All of my projects are available at [https://github.com/Prince-hash-lab](https://github.com/Prince-hash-lab)
 - 📫 How to reach me **pprince_be19@thapar.edu**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lDPUNFh5XqwH4kl0-AoToiw8aKA5Gmdh/view?usp=share_link](https://drive.google.com/file/d/1lDPUNFh5XqwH4kl0-AoToiw8aKA5Gmdh/view?usp=share_link)
