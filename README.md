@@ -32,7 +32,7 @@
 
 <h3> My Activity</h3> 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=prince-hash-lab&theme=github&area=true&custom_title=prince's%20Activity&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=prince-hash-lab&theme=github&area=true&custom_title=Prince's%20Activity&hide_border=false)
 
 
 <h3>Trophy's</h3> 
