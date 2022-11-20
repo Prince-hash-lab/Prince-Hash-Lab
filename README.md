@@ -40,8 +40,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> 
 <img align="right" width="350" alt="Code" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/code.gif"/>
 <!-- </p> -->
-<img align="right" width="200" height="150" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/function.gif"/>
+<img align="right" width="150" height="100" src="https://github.com/Aanvikshiki/Aanvikshiki/blob/main/function.gif"/>
 </p>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
 
 <h3 align="center">Connect with me:</h3>
