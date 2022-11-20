@@ -19,8 +19,6 @@
 </p>
 </a>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> </p>
 <!-- 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -32,13 +30,17 @@
 </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-hash-lab&label=Profile%20views&color=0e75b6&style=flat" alt="prince-hash-lab" />  </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
-
 <h3> My Activity</h3> 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=prince-hash-lab&theme=github&area=true&custom_title=prince's%20Activity&hide_border=true)
 
-<br/> 
+
+<h3>Trophy's</h3> 
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> </p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prince-Hash-Lab) &nbsp; [![Github](https://img.shields.io/github/followers/Prince-Hash-Lab?label=Follow&style=social)](https://github.com/Prince-Hash-Lab)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/prince-887490196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-887490196" height="30" width="40" /></a>
