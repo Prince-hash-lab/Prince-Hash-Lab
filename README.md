@@ -35,11 +35,12 @@
 </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-hash-lab&label=Profile%20views&color=0e75b6&style=flat" alt="prince-hash-lab" />  </p>
-
+<!-- 
 <h3> My Activity</h3> 
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=prince-hash-lab&theme=github&area=true&custom_title=Prince's%20Activity&hide_border=true)
 
-
+ -->
 <h3>Trophy's</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-hash-lab" alt="prince-hash-lab" /></a> 
